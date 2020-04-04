@@ -22,3 +22,9 @@ JVB_OPTS="--apis=rest"
 ## Changelog:
 ### 0.1
  - Fetch all data from videobridge
+
+
+
+## Build with:
+ -  [Lewicowy Hub](https://lhub.pl/) 
+ -  [Lewicowy Hub Online](https://online.lhub.pl/) 
